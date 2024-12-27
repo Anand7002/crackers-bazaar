@@ -1,0 +1,108 @@
+/* Header  */
+.a{
+    top: 0;
+    text-align: center;
+    background-color: cadetblue;
+    height: 40px;
+}
+.b {
+    display: inline-flex;
+    background-color: aqua;
+    width: 100%;
+}
+.b ul{
+    display: inline-flex;
+    gap: 30px;
+    list-style: none;
+}
+.c{
+    padding-left: 500px;
+}
+.c li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+/* Search_bar  */
+
+
+.logo{
+    width: 120px;
+    height: 140px;
+}
+.form{
+    display: inline-flex;
+    padding-left: 200px;
+}
+.search{
+    padding-top: 45px;
+    padding-left: 400px;
+}
+.input{
+    padding: 8px 16px;
+    background-color: white;
+    width: 451px;
+    height: 43.2px;
+    border: solid 1px rgb(241, 207, 207);
+}
+.cartbutton{
+    padding-left: 40px;
+    padding-top: 45px;
+}
+.buttoncart{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(93, 144, 146);
+    color: white;
+}
+
+
+/* Navbar  */
+
+
+.nav ul{
+    display:flex;
+    list-style: none;
+    cursor: pointer;
+    height: 30px;
+    align-items: center;
+
+}
+.nav{
+    background-color: rgb(79, 134, 136);
+    color: white;
+    padding-left: 100px;
+    
+}
+.nav ul li{
+    align-items: center;
+    padding-left: 30px;
+
+}
+
+footer{
+    background-color: rgb(132, 206, 208);
+}
+
+.footer{
+    background-color: darkcyan;
+    position: absolute;
+    width: 100%;
+}
+.row{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.part{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
+ol{
+    list-style: none;
+    text-decoration: overline ;
+}
+.ol{
+    display: grid;
+    grid-template-columns: auto auto;
+}

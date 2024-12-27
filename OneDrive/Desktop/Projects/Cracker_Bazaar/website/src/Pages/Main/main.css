@@ -1,0 +1,182 @@
+/* carousel name */
+
+.slide{
+    text-align: center;
+}
+img{
+    align-items: center;
+}
+
+
+
+
+/* carousel */
+
+.carousel{
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.carousel div img{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(224, 244, 244);
+    border: 1px solid rgb(224, 244, 244);
+    border-radius: 20px;
+}
+.carousel div img:hover{
+    background-color: aqua;
+}
+
+
+
+/* Online crackers purchase bangalore */
+
+
+.B{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    padding-left: 250px;
+    padding-right: 150px;
+}
+
+.online{
+    align-items: center;
+    padding-left: 600px;
+}
+.online1{
+    padding-left: 40px;
+}
+.diwali{
+    align-items: center;
+    padding-left: 690px;
+}
+.diwali1{
+    width: 200px;
+}
+
+
+
+
+.A{
+    padding: 10px;
+    margin: 10px;
+    border: 0.5px solid whitesmoke;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+
+.Button{
+    color: #ffffff;
+    font-size: 16px;
+    background: #2BA296;
+    margin: 16px 0px 0px;
+    padding: 9.888px 16px;
+    cursor: pointer;
+}
+.Button:hover{
+    background-color: #ffffff;
+    color: #2BA296;
+}
+.I {
+    width: 200px;
+    height: 200px;
+}
+
+
+/* banner-1 */
+
+.banner1{
+    height: 400px;
+    width: 100%;
+}
+.p{
+    background-color: cadetblue;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+}
+
+
+/* banner-2 */
+
+
+.banner2{
+    height: 300px;
+    width: 75%;
+    padding-left: 200px;
+    padding-right: 150px;
+}
+
+.banner34{
+    display: grid;
+    grid-template-columns:50% 50%;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.banner3{
+    height: 300px;
+    width: 100%;
+    
+
+}
+.banner4{
+    height: 300px;
+    width: 100%;
+}
+
+
+
+
+/* Testimonials*/
+
+.heading h4{
+    padding-left: 650px;
+}
+.heading img{
+    padding-left: 620px;
+}
+.testi{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+.testi div{
+    text-align: center;
+    width: 250px;
+    height: 250px;
+}
+
+.main{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+.main div{
+    text-align: center;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+    align-items: center;
+    width: 350px;
+    background-color: rgb(210, 241, 242);
+}
+.first{
+    display: flex;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+.first img{
+    width: 50px;
+}
+.second img{
+    width: 50px;
+}
+.third img{
+    width: 40px;
+}

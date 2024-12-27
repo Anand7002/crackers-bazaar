@@ -1,0 +1,14 @@
+{
+  "PROD": {
+    "0": {
+      "0": {
+        "didUserChangeLineCompletion": false,
+        "didUserChangeCommentCompletion": false,
+        "didUserChangeDelay": false,
+        "expiryTime": 1718952816651,
+        "messageDisplayCount": 6,
+        "errorMessage": "Login to the Bito extension to get free AI code completions…\nit could write 50% of your code…"
+      }
+    }
+  }
+}
